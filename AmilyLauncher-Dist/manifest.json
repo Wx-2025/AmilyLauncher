@@ -1,11 +1,12 @@
 {
   "launcher_update": {
     "latest_version": "1.0.0",
-    "download_url": "https://file.silencelurker.xyz/directlink/amily/Amily酒馆管理器v1.0.0.exe",
+    "download_url": "https://file.silencelurker.xyz/directlink/amily/Amily酒馆管理器 Setup 1.0.0.exe",
     "force_update": false,
     "changelog": "初始版本发布！\n\n- 支持一键部署 SillyTavern\n- 支持多版本管理\n- 支持数据自动备份与迁移\n- 集成 Amily2 助手插件"
   }
 }
+
 
 
 
