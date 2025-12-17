@@ -1,11 +1,12 @@
 {
   "launcher_update": {
-    "latest_version": "1.1.0",
-    "download_url": "https://file.silencelurker.xyz/s/wH0oWz",
-    "force_update": true,
-    "changelog": "初始版本发布！\n\n- 支持一键部署 SillyTavern\n- 支持多版本管理\n- 支持数据自动备份与迁移\n- 集成 Amily2 助手插件\n- 支持外部酒馆数据导入\n- 内嵌浏览器提升体验感"
+    "latest_version": "1.1.1",
+    "download_url": "https://file.silencelurker.xyz/s/c4DDdp",
+    "force_update": false,
+    "changelog": "初始版本发布！\n\n- 支持一键部署 SillyTavern\n- 支持多版本管理\n- 支持数据自动备份与迁移\n- 集成 Amily2 助手插件\n- 支持外部酒馆数据导入\n- 内嵌浏览器提升体验感\n- 修复预设、正则无法数据同步的问题"
   }
 }
+
 
 
 
